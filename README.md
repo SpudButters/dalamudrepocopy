@@ -1,2 +1,2 @@
 # dalamudrepocopy
-Personal Copy of Akurosia's megarepo for Dalamud
+Personal Copy of megarepo
